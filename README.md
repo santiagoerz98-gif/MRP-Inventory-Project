@@ -1,5 +1,5 @@
 # MRP-Inventory-Project
-# 📦 Sistema de Control de Inventario Inteligente (MRP) | SQL & Power BI
+# Sistema de Control de Inventario Inteligente (MRP) | SQL & Power BI
 
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat-square&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com)
@@ -11,15 +11,12 @@ A través de una arquitectura que conecta una base de datos relacional en **MySQ
 
 ---
 
-## 🚀 Vista Previa del Dashboard
-
-> 💡 *[Aquí puedes insertar una captura de pantalla de tu Dashboard de Power BI o un GIF interactivo. ¡Esto vende muchísimo!]*
-> Para añadir la imagen, guarda tu captura en una carpeta llamada `Images/` y usa esta línea:*
-> `![Dashboard Preview](Images/dashboard-preview.png)`
+## Vista Previa del Dashboard
+![Demo interactiva del Dashboard](reports/dahsboard-preview.gif)
 
 ---
 
-## 💼 El Problema de Negocio (Caso de Estudio)
+## El Problema de Negocio (Caso de Estudio)
 Una fabrica o distribuidor mediano de productos se enfrenta a constantes pérdidas financieras debido a:
 1. **Dinero congelado:** Exceso de stock en productos de baja rotación.
 2. **Pérdida de ventas:** Roturas de stock en artículos críticos por no saber cuándo reordenar.
@@ -27,7 +24,7 @@ Una fabrica o distribuidor mediano de productos se enfrenta a constantes pérdid
 
 ---
 
-## 🛠️ Arquitectura de la Solución
+## Arquitectura de la Solución
 El proyecto se diseñó utilizando un flujo de datos profesional, garantizando la escalabilidad y el rendimiento:
 
 ```text
